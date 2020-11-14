@@ -1,0 +1,1 @@
+gcc -g ./src/main.c -I libft/include -I include -L libft -lft -lmlx -framework OpenGL -framework AppKit
